@@ -1,0 +1,23 @@
+% XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+\section{OSC10 (Silberschatz) Chapter}
+\begin{frame}
+\frametitle{OSC10 (Silberschatz) Chapter}
+\begin{multicols}{2}
+  \begin{itemize}
+  \item OSC10 Chapter
+  \begin{itemize}
+  \item 
+  \end{itemize}
+  \end{itemize}
+  \vfill \null
+\columnbreak
+  \begin{itemize}
+  \item OSC10 Chapter 
+  \begin{itemize}
+  \item 
+  \end{itemize}
+  \end{itemize}
+  \vfill \null
+\end{multicols}
+\end{frame}
+
