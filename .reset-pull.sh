@@ -3,5 +3,6 @@
 git fetch --all
 # BACKUP
 git branch backup-master
-# git reset --hard origin/master
+# TOTAL RESET
+git reset --hard origin/master
 
