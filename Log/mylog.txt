@@ -1,0 +1,4 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode + Description List
+ZCZC WEEK00 15 L03 GitHub and git related, including commit, push, pull
